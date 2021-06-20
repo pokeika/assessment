@@ -56,7 +56,7 @@
       '{userName}節度です',
       '{userName}好奇心です',
       '{userName}気配りです',
-      '{userName}そのすべてです',
+      '{userName}その全てです',
       '{userName}自制心です',
       '{userName}優しさです',
     ];
