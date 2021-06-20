@@ -58,6 +58,7 @@
       '{userName}気配りです',
       '{userName}そのすべてです',
       '{userName}自制心です',
+      '{userName}優しさです',
     ];
 
     /**
